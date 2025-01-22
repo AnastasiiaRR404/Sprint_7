@@ -4,7 +4,6 @@ import pytest
 import requests
 import test_data
 from helpers import Helpers
-from tests.utils import generate_random_string
 
 
 class TestCourierCreate:
